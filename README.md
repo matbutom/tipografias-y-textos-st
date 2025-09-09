@@ -10,4 +10,3 @@ Este repositorio contiene un script que utiliza EasyOCR para detectar bloques de
 
   ```bash
   pip install -r requirements.txt
-ias-y-textos-st
